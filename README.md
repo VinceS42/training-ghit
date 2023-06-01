@@ -1,1 +1,1 @@
-# training-ghit
+# training-git
